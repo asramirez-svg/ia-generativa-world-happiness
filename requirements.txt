@@ -1,0 +1,9 @@
+pandas>=2.0
+plotly>=5.20
+matplotlib>=3.8
+kaleido>=0.2
+
+# Solo para el agente en vivo (04_agente_langchain_watsonx.py); necesita
+# credenciales de IBM watsonx.ai, no incluidas en este repo.
+langchain-experimental
+langchain-ibm
