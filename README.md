@@ -60,4 +60,7 @@ img/               gráficos exportados
 - World Happiness Report 2016 (Kaggle, CC0), vía el proyecto guiado del curso de IBM.
 - UCI Machine Learning Repository, Student Alcohol Consumption (`student-mat.csv`).
 
+## Otros proyectos
+Parte de mi portafolio de análisis de datos: [github.com/asramirez-svg](https://github.com/asramirez-svg)
+
 **Autor:** Augusto Set Ramírez Ames — analista de datos, IBM Data Analyst Professional Certificate. [LinkedIn](https://linkedin.com/in/AugustoRamirezA)
